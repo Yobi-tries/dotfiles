@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thibaultsaldou@yahoo.com
+	name = Thibault Saldou
